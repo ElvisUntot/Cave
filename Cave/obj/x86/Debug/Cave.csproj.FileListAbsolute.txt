@@ -1,0 +1,8 @@
+c:\users\r.hunderlach\documents\visual studio 2010\Projects\Cave\Cave\bin\Debug\Cave.exe
+c:\users\r.hunderlach\documents\visual studio 2010\Projects\Cave\Cave\bin\Debug\Cave.pdb
+c:\users\r.hunderlach\documents\visual studio 2010\Projects\Cave\Cave\obj\x86\Debug\Cave.Form1.resources
+c:\users\r.hunderlach\documents\visual studio 2010\Projects\Cave\Cave\obj\x86\Debug\Cave.Properties.Resources.resources
+c:\users\r.hunderlach\documents\visual studio 2010\Projects\Cave\Cave\obj\x86\Debug\Cave.exe
+c:\users\r.hunderlach\documents\visual studio 2010\Projects\Cave\Cave\obj\x86\Debug\Cave.pdb
+C:\Users\r.hunderlach\Documents\Visual Studio 2010\Projects\Cave\Cave\obj\x86\Debug\Cave.csprojResolveAssemblyReference.cache
+C:\Users\r.hunderlach\Documents\Visual Studio 2010\Projects\Cave\Cave\obj\x86\Debug\Cave.csproj.GenerateResource.Cache
